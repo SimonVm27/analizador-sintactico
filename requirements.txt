@@ -1,0 +1,5 @@
+# CFG Tree Generator - Dependencias
+# Instalar con: pip install -r requirements.txt
+
+PyQt5>=5.15.0
+nltk>=3.8.0
